@@ -42,7 +42,7 @@ My experience spans financial planning, revenue growth management, and strategy 
 
 **[LinkedIn Tracker Dashboard](https://github.com/bozkurtalper/LinkedIn-Tracker-Dashboard)**
 
-A Python-based analytics dashboard for tracking and visualizing LinkedIn performance data, co-developed with [Alper Bozkurt](https://github.com/bozkurtalper).
+A Python-based analytics dashboard for analyzing LinkedIn profile data and visualizing career progression, leadership, and professional mobility, co-developed with [Alper Bozkurt](https://github.com/bozkurtalper).
 
 ### Interests
 
